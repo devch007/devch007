@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Dev%20Chaudhary&fontSize=40&fontColor=ffffff" />
+</p>
 <h1 align="center">Hey 👋, I'm Dev</h1>
 <h3 align="center">AI Builder | Trading Systems | Founder @ DC Technologies</h3>
 
